@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pavanchavali.github.io/sitemap.xml
