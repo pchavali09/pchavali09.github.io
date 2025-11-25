@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Composable-Architecture on Pavan's Blog</title><link>https://pchavali09.github.io/tags/composable-architecture/</link><description>Recent content in Composable-Architecture on Pavan's Blog</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pchavali09.github.io/tags/composable-architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>The Platform Renaissance: Why the Future of Enterprise SaaS Is Composable</title><link>https://pchavali09.github.io/posts/the-platform-renaissance-why-the-future-of-enterprise-saas-is-composable/</link><pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate><guid>https://pchavali09.github.io/posts/the-platform-renaissance-why-the-future-of-enterprise-saas-is-composable/</guid><description>&lt;p&gt;For nearly two decades, the enterprise IT playbook has been clear and consistent. In the “Build vs. Buy” debate, the answer overwhelmingly leaned toward &lt;strong&gt;Buy&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We adopted Salesforce, Workday, ServiceNow, and other SaaS platforms because they were secure, scalable, and significantly cheaper and faster than building enterprise systems from scratch. The costs, maintenance, and complexity of custom systems made SaaS the pragmatic choice.&lt;/p&gt;
+&lt;p&gt;But a shift is underway. Enterprises are beginning to ask a deeper question:&lt;/p&gt;</description><content:encoded><![CDATA[<p>For nearly two decades, the enterprise IT playbook has been clear and consistent. In the “Build vs. Buy” debate, the answer overwhelmingly leaned toward <strong>Buy</strong>.</p>
+<p>We adopted Salesforce, Workday, ServiceNow, and other SaaS platforms because they were secure, scalable, and significantly cheaper and faster than building enterprise systems from scratch. The costs, maintenance, and complexity of custom systems made SaaS the pragmatic choice.</p>
+<p>But a shift is underway. Enterprises are beginning to ask a deeper question:</p>
+<blockquote>
+<p><strong>What if the real power isn’t in the cloud you buy — but in the platform beneath it?</strong></p>
+</blockquote>
+<h3 id="why-now">Why Now</h3>
+<p>This shift is being driven by two major industry-wide transformations:</p>
+<h3 id="1-the-maturing-of-in-housetalent">1. The Maturing of In-House Talent</h3>
+<p>Ten years ago, large engineering teams were mostly found in tech companies.<br>
+Today — banks, retailers, manufacturers, insurers, logistics companies — <strong>every enterprise is a technology company</strong>.</p>
+<p>This is fueling the <strong>Platform Engineering megatrend</strong>.</p>
+<p>Gartner predicts that by <strong>2026</strong>,</p>
+<blockquote>
+<p><strong>80% of large software engineering organizations will establish platform engineering teams.</strong>(<a href="https://www.gartner.com/en/newsroom/press-releases/2023-11-28-gartner-hype-cycle-shows-ai-practices-and-platform-engineering-will-reach-mainstream-adoption-in-software-engineering-in-two-to-five-years">Gartner — Top Strategic Technology Trends</a>)</p>
+</blockquote>
+<p>These teams build <strong>Internal Developer Platforms (IDPs)</strong> to standardize how enterprise engineers build systems internally. They’re no longer simple “software consumers” — they’re sophisticated builders.</p>
+<p>Gartner has also continued to advocate for <strong>composable architecture</strong>, aligned to modularity, speed, and reuse.</p>
+<p>And another key data point:</p>
+<blockquote>
+<p><strong>By 2027, 50% of enterprise software engineers will use ML-powered coding tools.</strong> (<a href="https://www.gartner.com/en/newsroom/press-releases/2023-11-28-gartner-hype-cycle-shows-ai-practices-and-platform-engineering-will-reach-mainstream-adoption-in-software-engineering-in-two-to-five-years">Gartner — Software Engineering Trends</a>)</p>
+</blockquote>
+<h3 id="2-the-rise-of-ai-as-a-developer">2. The Rise of AI as a Developer</h3>
+<p>Generative AI is completely reshaping the economics of software development.</p>
+<p><strong>AI now:</strong></p>
+<ul>
+<li>
+<p>Writes large portions of production-grade code</p>
+</li>
+<li>
+<p>Builds tests</p>
+</li>
+<li>
+<p>Generates documentation</p>
+</li>
+<li>
+<p>Improves code quality</p>
+</li>
+<li>
+<p>Reduces long-term maintenance overhead</p>
+</li>
+</ul>
+<p>The old barriers that made “Build” expensive are eroding quickly.</p>
+<p>AI means that building is no longer a high-cost, long-term liability — it’s becoming a <strong>strategic advantage</strong>, especially when the solution differentiates your business.</p>
+<h3 id="not-just-a-return-to-build-vsbuy">Not Just a Return to “Build vs. Buy”</h3>
+<p>Some frame this shift as reopening the old debate. But this is bigger. This is not “Build” versus “Buy.” This is a <strong>new model</strong>:</p>
+<blockquote>
+<p>Buy the Platform. Build the Differentiation.</p>
+</blockquote>
+<p>We are entering the <strong>Platform Renaissance</strong>, aligned with what Gartner calls the <strong>Composable Enterprise</strong> — a world where organizations assemble capabilities like Lego blocks.</p>
+<h3 id="the-ai-powered-platform-first-opportunity">The AI-Powered Platform-First Opportunity</h3>
+<p>The future of enterprise IT isn’t in vertical SaaS apps. It’s in platforms that empower organizations to build what truly differentiates them. SaaS vendors can evolve by offering:</p>
+<ul>
+<li>
+<p>Horizontal Capabilities: Workflow engines, Analytics, AI automation</p>
+</li>
+<li>
+<p>Extensible building blocks: data models, UI templates, SDKs</p>
+</li>
+<li>
+<p>Open composition: customers assemble apps themselves</p>
+</li>
+</ul>
+<p>Instead of selling <strong>Service Cloud v3</strong>, vendors could provide: A secure, metadata-driven, AI-native platform where enterprise engineers and citizen developers build their own solutions — fast. This enables enterprises to:</p>
+<ul>
+<li>
+<p>Maintain innovation speed</p>
+</li>
+<li>
+<p>Avoid vendor lock-in</p>
+</li>
+<li>
+<p>Reduce expensive custom rebuilds</p>
+</li>
+<li>
+<p>Use vendor strengths while building unique IP</p>
+</li>
+</ul>
+<blockquote>
+<p><a href="https://www.gartner.com/en/newsroom/press-releases/2025-10-20-gartner-identifies-the-top-strategic-technology-trends-for-2026">Gartner — Top Strategic Technology Trends for 2026: Composable Platforms &amp; AI-Native Development</a></p>
+</blockquote>
+<h3 id="the-new-opportunity-unbundle-dontreplace">The New Opportunity: Unbundle, Don’t Replace</h3>
+<p>This shift isn’t about discarding existing systems.</p>
+<p>It’s about <strong>unbundling them</strong>.</p>
+<p>A very telling example: A recent job posting for a <em>Salesforce Developer (AI/Einstein)</em> didn’t simply ask for app admin skills. It asked for the ability to:</p>
+<p><em>“Design, build, and productionize Salesforce-native AI features and Build on-platform AI capabilities”</em></p>
+<p>That job description reflects what enterprises actually want from SaaS vendors today —</p>
+<blockquote>
+<p><strong>Give us your governance, security, reliability, and world-class AI stack.<br>
+And give us the freedom to build the last-mile differentiation ourselves.</strong></p>
+</blockquote>
+<p>SaaS vendors that pivot from “product providers” to <strong>platform enablers</strong> will define the next decade of enterprise software.</p>
+<p>They will become the <strong>foundation layer</strong> for AI-driven, customizable enterprise applications.</p>
+<h3 id="vendors-best-positioned-tolead">Vendors Best Positioned to Lead</h3>
+<ul>
+<li>
+<p><strong>Salesforce:</strong> Already progressing toward a metadata-first, AI-native extensible platform.</p>
+</li>
+<li>
+<p><strong>Microsoft:</strong> Power Platform + Azure offer some of the strongest building-block primitives in the market.</p>
+</li>
+<li>
+<p><strong>ServiceNow:</strong> Now Platform increasingly resembles a modular business OS.</p>
+</li>
+<li>
+<p><strong>Oracle:</strong> Fusion Cloud + Oracle’s developer tooling make it a strong contender for platform-driven enterprise architectures.</p>
+</li>
+</ul>
+<blockquote>
+<p><strong>“The future of enterprise IT isn’t just what you buy.<br>
+It’s what you can build on top of it.”</strong></p>
+</blockquote>
+<p>The next decade of enterprise software won’t be defined by the tools we buy, but by the platforms we build upon.</p>
+<p>The real question for CIOs, architects, and product leaders now is simple:<br>
+<em><strong>Will your organization be a consumer of SaaS — or a creator of strategic advantage?</strong></em></p>
+<p><em>Note: This article was written by the author with editing assistance from AI &amp; Illustrations generated with the help of AI</em></p>
+]]></content:encoded></item></channel></rss>

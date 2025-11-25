@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mcp on Pavan's Blog</title><link>https://pchavali09.github.io/tags/mcp/</link><description>Recent content in Mcp on Pavan's Blog</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pchavali09.github.io/tags/mcp/index.xml" rel="self" type="application/rss+xml"/><item><title>The Platform Renaissance: Why the Future of Enterprise SaaS Is Composable</title><link>https://pchavali09.github.io/posts/the-platform-renaissance-why-the-future-of-enterprise-saas-is-composable/</link><pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate><guid>https://pchavali09.github.io/posts/the-platform-renaissance-why-the-future-of-enterprise-saas-is-composable/</guid><description>&lt;p&gt;For nearly two decades, the enterprise IT playbook has been clear and consistent. In the “Build vs. Buy” debate, the answer overwhelmingly leaned toward &lt;strong&gt;Buy&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We adopted Salesforce, Workday, ServiceNow, and other SaaS platforms because they were secure, scalable, and significantly cheaper and faster than building enterprise systems from scratch. The costs, maintenance, and complexity of custom systems made SaaS the pragmatic choice.&lt;/p&gt;
+&lt;p&gt;But a shift is underway. Enterprises are beginning to ask a deeper question:&lt;/p&gt;</description><content:encoded><![CDATA[<p>For nearly two decades, the enterprise IT playbook has been clear and consistent. In the “Build vs. Buy” debate, the answer overwhelmingly leaned toward <strong>Buy</strong>.</p>
+<p>We adopted Salesforce, Workday, ServiceNow, and other SaaS platforms because they were secure, scalable, and significantly cheaper and faster than building enterprise systems from scratch. The costs, maintenance, and complexity of custom systems made SaaS the pragmatic choice.</p>
+<p>But a shift is underway. Enterprises are beginning to ask a deeper question:</p>
+<blockquote>
+<p><strong>What if the real power isn’t in the cloud you buy — but in the platform beneath it?</strong></p>
+</blockquote>
+<h3 id="why-now">Why Now</h3>
+<p>This shift is being driven by two major industry-wide transformations:</p>
+<h3 id="1-the-maturing-of-in-housetalent">1. The Maturing of In-House Talent</h3>
+<p>Ten years ago, large engineering teams were mostly found in tech companies.<br>
+Today — banks, retailers, manufacturers, insurers, logistics companies — <strong>every enterprise is a technology company</strong>.</p>
+<p>This is fueling the <strong>Platform Engineering megatrend</strong>.</p>
+<p>Gartner predicts that by <strong>2026</strong>,</p>
+<blockquote>
+<p><strong>80% of large software engineering organizations will establish platform engineering teams.</strong>(<a href="https://www.gartner.com/en/newsroom/press-releases/2023-11-28-gartner-hype-cycle-shows-ai-practices-and-platform-engineering-will-reach-mainstream-adoption-in-software-engineering-in-two-to-five-years">Gartner — Top Strategic Technology Trends</a>)</p>
+</blockquote>
+<p>These teams build <strong>Internal Developer Platforms (IDPs)</strong> to standardize how enterprise engineers build systems internally. They’re no longer simple “software consumers” — they’re sophisticated builders.</p>
+<p>Gartner has also continued to advocate for <strong>composable architecture</strong>, aligned to modularity, speed, and reuse.</p>
+<p>And another key data point:</p>
+<blockquote>
+<p><strong>By 2027, 50% of enterprise software engineers will use ML-powered coding tools.</strong> (<a href="https://www.gartner.com/en/newsroom/press-releases/2023-11-28-gartner-hype-cycle-shows-ai-practices-and-platform-engineering-will-reach-mainstream-adoption-in-software-engineering-in-two-to-five-years">Gartner — Software Engineering Trends</a>)</p>
+</blockquote>
+<h3 id="2-the-rise-of-ai-as-a-developer">2. The Rise of AI as a Developer</h3>
+<p>Generative AI is completely reshaping the economics of software development.</p>
+<p><strong>AI now:</strong></p>
+<ul>
+<li>
+<p>Writes large portions of production-grade code</p>
+</li>
+<li>
+<p>Builds tests</p>
+</li>
+<li>
+<p>Generates documentation</p>
+</li>
+<li>
+<p>Improves code quality</p>
+</li>
+<li>
+<p>Reduces long-term maintenance overhead</p>
+</li>
+</ul>
+<p>The old barriers that made “Build” expensive are eroding quickly.</p>
+<p>AI means that building is no longer a high-cost, long-term liability — it’s becoming a <strong>strategic advantage</strong>, especially when the solution differentiates your business.</p>
+<h3 id="not-just-a-return-to-build-vsbuy">Not Just a Return to “Build vs. Buy”</h3>
+<p>Some frame this shift as reopening the old debate. But this is bigger. This is not “Build” versus “Buy.” This is a <strong>new model</strong>:</p>
+<blockquote>
+<p>Buy the Platform. Build the Differentiation.</p>
+</blockquote>
+<p>We are entering the <strong>Platform Renaissance</strong>, aligned with what Gartner calls the <strong>Composable Enterprise</strong> — a world where organizations assemble capabilities like Lego blocks.</p>
+<h3 id="the-ai-powered-platform-first-opportunity">The AI-Powered Platform-First Opportunity</h3>
+<p>The future of enterprise IT isn’t in vertical SaaS apps. It’s in platforms that empower organizations to build what truly differentiates them. SaaS vendors can evolve by offering:</p>
+<ul>
+<li>
+<p>Horizontal Capabilities: Workflow engines, Analytics, AI automation</p>
+</li>
+<li>
+<p>Extensible building blocks: data models, UI templates, SDKs</p>
+</li>
+<li>
+<p>Open composition: customers assemble apps themselves</p>
+</li>
+</ul>
+<p>Instead of selling <strong>Service Cloud v3</strong>, vendors could provide: A secure, metadata-driven, AI-native platform where enterprise engineers and citizen developers build their own solutions — fast. This enables enterprises to:</p>
+<ul>
+<li>
+<p>Maintain innovation speed</p>
+</li>
+<li>
+<p>Avoid vendor lock-in</p>
+</li>
+<li>
+<p>Reduce expensive custom rebuilds</p>
+</li>
+<li>
+<p>Use vendor strengths while building unique IP</p>
+</li>
+</ul>
+<blockquote>
+<p><a href="https://www.gartner.com/en/newsroom/press-releases/2025-10-20-gartner-identifies-the-top-strategic-technology-trends-for-2026">Gartner — Top Strategic Technology Trends for 2026: Composable Platforms &amp; AI-Native Development</a></p>
+</blockquote>
+<h3 id="the-new-opportunity-unbundle-dontreplace">The New Opportunity: Unbundle, Don’t Replace</h3>
+<p>This shift isn’t about discarding existing systems.</p>
+<p>It’s about <strong>unbundling them</strong>.</p>
+<p>A very telling example: A recent job posting for a <em>Salesforce Developer (AI/Einstein)</em> didn’t simply ask for app admin skills. It asked for the ability to:</p>
+<p><em>“Design, build, and productionize Salesforce-native AI features and Build on-platform AI capabilities”</em></p>
+<p>That job description reflects what enterprises actually want from SaaS vendors today —</p>
+<blockquote>
+<p><strong>Give us your governance, security, reliability, and world-class AI stack.<br>
+And give us the freedom to build the last-mile differentiation ourselves.</strong></p>
+</blockquote>
+<p>SaaS vendors that pivot from “product providers” to <strong>platform enablers</strong> will define the next decade of enterprise software.</p>
+<p>They will become the <strong>foundation layer</strong> for AI-driven, customizable enterprise applications.</p>
+<h3 id="vendors-best-positioned-tolead">Vendors Best Positioned to Lead</h3>
+<ul>
+<li>
+<p><strong>Salesforce:</strong> Already progressing toward a metadata-first, AI-native extensible platform.</p>
+</li>
+<li>
+<p><strong>Microsoft:</strong> Power Platform + Azure offer some of the strongest building-block primitives in the market.</p>
+</li>
+<li>
+<p><strong>ServiceNow:</strong> Now Platform increasingly resembles a modular business OS.</p>
+</li>
+<li>
+<p><strong>Oracle:</strong> Fusion Cloud + Oracle’s developer tooling make it a strong contender for platform-driven enterprise architectures.</p>
+</li>
+</ul>
+<blockquote>
+<p><strong>“The future of enterprise IT isn’t just what you buy.<br>
+It’s what you can build on top of it.”</strong></p>
+</blockquote>
+<p>The next decade of enterprise software won’t be defined by the tools we buy, but by the platforms we build upon.</p>
+<p>The real question for CIOs, architects, and product leaders now is simple:<br>
+<em><strong>Will your organization be a consumer of SaaS — or a creator of strategic advantage?</strong></em></p>
+<p><em>Note: This article was written by the author with editing assistance from AI &amp; Illustrations generated with the help of AI</em></p>
+]]></content:encoded></item><item><title>Episode 1: From APIs to AI MCP — The Next Chapter of Enterprise Integrations</title><link>https://pchavali09.github.io/posts/episode1-apis-ai-mcp/</link><pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate><guid>https://pchavali09.github.io/posts/episode1-apis-ai-mcp/</guid><description>&lt;p&gt;If you’ve ever spent late nights debugging APIs, juggling integration flows, or wondering why your “connected systems” don’t actually &lt;em&gt;talk&lt;/em&gt; to each other — this one’s for you.&lt;/p&gt;
+&lt;p&gt;This 4-part series explores how enterprise integrations are evolving from traditional APIs and middleware to something smarter — &lt;strong&gt;AI MCP (Model Context Protocol)&lt;/strong&gt; — a new way for systems to communicate &lt;em&gt;intelligently&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;(In this first episode, we’ll explore what MCP is, why it matters, and how it changes the way we think about integration.)&lt;/p&gt;</description><content:encoded><![CDATA[<p>If you’ve ever spent late nights debugging APIs, juggling integration flows, or wondering why your “connected systems” don’t actually <em>talk</em> to each other — this one’s for you.</p>
+<p>This 4-part series explores how enterprise integrations are evolving from traditional APIs and middleware to something smarter — <strong>AI MCP (Model Context Protocol)</strong> — a new way for systems to communicate <em>intelligently</em>.</p>
+<p>(In this first episode, we’ll explore what MCP is, why it matters, and how it changes the way we think about integration.)</p>
+<h3 id="the-integration-story-we-allknow"><strong>The Integration Story We All Know</strong></h3>
+<p>If you’ve ever worked in enterprise systems, you know this feeling:</p>
+<p>Every time a new tool enters the ecosystem, someone says, “We just need an integration.”</p>
+<p>And before you know it — you’re managing a spaghetti bowl of APIs, middleware, and connectors that all <em>kinda work</em>… until they don’t.</p>
+<p>We’ve all been there.</p>
+<p>For years, <em>integration</em> has been the silent backbone of digital transformation — connecting CRMs, ERPs, support tools, and data lakes.</p>
+<p>We’ve built those connections through APIs, ETL scripts, and platforms like MuleSoft/Bhoomi. They were reliable, repeatable, and predictable.</p>
+<p>But then, something changed.</p>
+<h3 id="the-rise-of-aiand-why-our-integrations-suddenly-feltdumb"><strong>The Rise of AI — and Why Our Integrations Suddenly Felt Dumb</strong></h3>
+<p>When AI entered the chat (pun intended), we realized something strange.</p>
+<p>Our systems were connected, but they weren’t <em>thinking together</em>.</p>
+<p>Imagine this:</p>
+<ul>
+<li>
+<p>Your CRM knows what the customer bought.</p>
+</li>
+<li>
+<p>Your support system knows what the customer complained about.</p>
+</li>
+<li>
+<p>Your email system knows how your rep responded.</p>
+</li>
+</ul>
+<p>But none of them share <em>context</em>.</p>
+<p>That’s when you realize — the problem isn’t that your systems aren’t integrated.</p>
+<p>It’s that your integrations aren’t intelligent.</p>
+<h3 id="enter-mcp-the-model-contextprotocol"><strong>Enter MCP: The Model Context Protocol</strong></h3>
+<p>Now, let’s talk about the new kid on the block: <strong>MCP, or Model Context Protocol.</strong></p>
+<p>Sounds fancy, right? But here’s the simple version:</p>
+<p><em>MCP is like a</em> <em><strong>universal translator</strong></em> <em>(or a standard set of rules) that allows AI agents to safely discover and talk to tools, apps, and systems — and actually</em> do <em>things.</em></p>
+<p>Instead of hardcoding every API call or building middleware flows, you define <strong>“tools” — standardized, discoverable actions</strong> that tell the AI what actions are possible (e.g., <code>create_jira_ticket</code>, <code>get_customer_status</code>) and how to use them.</p>
+<p>So rather than a integration service flow that says:</p>
+<p>“When record is updated in ERP → push update to CRM,”</p>
+<p>you could have an <strong>AI agent</strong> that <em>decides</em> when to do it, <em>why</em> it’s needed, and even <em>how</em> to summarize or enrich the data… and then uses MCP to execute the action.</p>
+<p><strong>If the AI is the “brain,” MCP is the universal “nervous system”</strong> that connects that brain to all your different system “limbs” in a language they all understand.</p>
+<p><em><strong>Sounds almost magical, right? But MCP is still early. Standards are forming, tooling is evolving, and enterprises will need to answer tough questions — how do you govern AI-driven actions? How do you audit what the agent did, and why?<br>
+These are the grey zones that make this shift exciting and a little daunting — something I’ll unpack in later episodes.</strong></em></p>
+<h3 id="why-itmatters"><strong>Why It Matters</strong></h3>
+<p>Let’s step back for a moment.</p>
+<p>When we built integrations before, they were <strong>deterministic</strong>. You could trace the logic step by step.</p>
+<p>MCP enables <strong>reasoning</strong> — allowing an AI agent to decide <em>what</em> to do based on context, not just a pre-programmed trigger.</p>
+<p>Think of it this way:</p>
+<ul>
+<li>
+<p><strong>APIs</strong> connect systems.</p>
+</li>
+<li>
+<p><strong>Integration layer (like MuleSoft)</strong> orchestrates systems.</p>
+</li>
+<li>
+<p><strong>MCP</strong> lets an AI agent <em>reason about</em> and <em>command</em> systems.</p>
+</li>
+</ul>
+<p>That’s a big shift.</p>
+<p>It means instead of wiring a thousand specific automations, you could expose a few well-defined tools — and let AI handle the orchestration dynamically.</p>
+<p><em><strong>Of course, reasoning-driven integrations come with trade-offs. Deterministic flows are predictable; AI reasoning isn’t always. When something fails, where do you debug — the agent’s decision logic, or the tool it invoked?<br>
+That tension between flexibility and control will define how ready enterprises really are for MCP.</strong></em></p>
+<h3 id="a-quickexample"><strong>A Quick Example</strong></h3>
+<p>Let’s say your company uses Salesforce, Slack, and Jira.</p>
+<p><strong>Today, you might:</strong></p>
+<ol>
+<li>
+<p>Build a MuleSoft flow that updates Jira when a Salesforce case hits “Escalated.”</p>
+</li>
+<li>
+<p>Use an ETL job to sync case data to Slack for the support team.</p>
+</li>
+</ol>
+<p><strong>With MCP, a new workflow is possible:</strong></p>
+<ol>
+<li>
+<p>The <strong>AI Agent (the “brain”)</strong> <em>Detects</em> negative sentiment from customer emails.</p>
+</li>
+<li>
+<p>It <em>Summarizes</em> recent Slack discussions about that customer.</p>
+</li>
+<li>
+<p>It <em>Decides</em> the issue needs escalation.</p>
+</li>
+</ol>
+<p>Then, using the <strong>MCP protocol (the “nervous system”)</strong>, it finds and executes the pre-defined tools:<br>
+<code>- create_ticket</code> in Jira.<br>
+<code>- notify_channel</code> in Slack, including its own summary.</p>
+<p>No hard-coded flow. Just <strong>context + reasoning + action</strong>.</p>
+<h3 id="open-mcp-vs-enterprise-mcp"><strong>Open MCP vs. Enterprise MCP</strong></h3>
+<p>Here’s where things get interesting.</p>
+<p>There are two worlds emerging:</p>
+<ol>
+<li>
+<p><strong>Open MCP</strong> — a community-driven, open protocol where you can define your own tools and host them anywhere.</p>
+</li>
+<li>
+<p><strong>Enterprise MCP</strong> — A vendor’s enterprise-grade version (like what Salesforce is building with its <strong>Agentforce MCP/Agentforce 360</strong> concept), integrated with their ecosystem and AI Trust Layer.</p>
+</li>
+</ol>
+<p>Think of <strong>Open MCP</strong> like open-source Lego blocks — flexible and free, but you need to assemble, host, and secure them yourself.</p>
+<p><strong>Enterprise MCP</strong> is like buying the official Lego set — integrated, supported, and comes with enterprise-grade fit, finish, and guardrails.</p>
+<p><em><strong>But not every organization will jump to this model overnight. Governance, compliance, data access, and trust boundaries will play a huge role in how fast MCP matures.<br>
+And let’s be honest — some industries (like finance or healthcare) will move cautiously, balancing innovation with risk.</strong></em></p>
+<p>In the next episode, we’ll explore exactly how those two worlds meet — and where platforms like MuleSoft still shine.</p>
+<h3 id="the-biggerpicture"><strong>The Bigger Picture</strong></h3>
+<p>Every decade, integration evolves —</p>
+<p>![](<a href="https://cdn-images-1.medium.com/max/1200/1">https://cdn-images-1.medium.com/max/1200/1</a>*J4UdhYTTJaF8Fj2Cgu6luQ.png align=&ldquo;left&rdquo;)</p>
+<p>We’re not throwing away APIs or integration services like MuleSoft. Far from it.</p>
+<p>They’re just becoming part of a larger picture — a connected enterprise where AI doesn’t just <em>call</em> systems, it <em>understands</em> them.</p>
+<p>The truth is — we’re still figuring out where AI-driven orchestration ends and traditional integration begins. And that’s okay. Every tech wave starts messy before it becomes mainstream.</p>
+<h3 id="closing-thought"><strong>Closing Thought</strong></h3>
+<p>If APIs were highways connecting your systems, <strong>MCP is the intelligent traffic control tower</strong> — managing how AI-driven agents move across those highways safely and efficiently.</p>
+<p>We’ve spent years wiring data pipelines. Now it’s time to give them brains… and the nervous system to connect them.</p>
+<h3 id="coming-next"><strong>Coming Next</strong></h3>
+<p><strong>Episode 2: “MCP vs Integration Services: Friends, Not Foes”</strong> — a deep dive into how both coexist and complement each other in modern enterprises.</p>
+<p>This whole space is evolving fast — and every architect, developer, and AI tinkerer sees it from a different angle.</p>
+<ul>
+<li>
+<p>What do you think about MCP’s role in the future of enterprise integrations?</p>
+</li>
+<li>
+<p>Would you trust AI to make integration decisions?</p>
+</li>
+</ul>
+<p>Drop your thoughts in the comments — I’d love to hear how you see this unfolding.</p>
+<p><em>Note: This article was written by the author with editing assistance from AI &amp; Illustrations generated with the help of AI</em></p>
+]]></content:encoded></item></channel></rss>
